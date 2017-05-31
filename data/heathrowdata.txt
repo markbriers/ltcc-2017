@@ -1,4 +1,3 @@
-Heathrow
 yyyy	mm	tmax	tmin	rain
 1948	1	8.9	3.3	85
 1948	2	7.9	2.2	26
